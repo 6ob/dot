@@ -1,5 +1,4 @@
 ﻿{"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c","title": "亚洲","channels": [
-{"name":"CCTV-5","url":"live/kwzq1rse/8p5jrfhk/index.m3u8 "},
 {"name":"CCTV-5","url":"http://223.110.242.130:6610/cntv/live1/cctv-5/1.m3u8"},
 {"name":"CCTV-5","url":"http://223.110.245.139:80/PLTV/4/224/3221227298/index.m3u8"},
 {"name":"CCTV-5","url":"http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8"},
@@ -11,7 +10,6 @@
 {"name":"CCTV-5HD","url":"http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8"},
 {"name":"CCTV5-HD","url":"http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8"},
 {"name":"CCTV5+","url":"http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8"},
-{"name":"CCTV-5+","url":"live/kwzq1rse/n8pwh7zv/index.m3u8 "},
 {"name":"CCTV-5+","url":"http://223.110.242.130:6610/cntv/live1/hdcctv05plus/1.m3u8"},
 {"name":"CCTV-5+","url":"http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8"},
 {"name":"CCTV-5+","url":"http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8"},
